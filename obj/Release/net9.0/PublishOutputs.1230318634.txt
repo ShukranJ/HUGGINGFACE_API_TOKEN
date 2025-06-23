@@ -1,0 +1,7 @@
+/Users/shukran/HuggingFaceBot/out/HuggingFaceBot
+/Users/shukran/HuggingFaceBot/out/appsettings.Development.json
+/Users/shukran/HuggingFaceBot/out/appsettings.json
+/Users/shukran/HuggingFaceBot/out/HuggingFaceBot.dll
+/Users/shukran/HuggingFaceBot/out/HuggingFaceBot.deps.json
+/Users/shukran/HuggingFaceBot/out/HuggingFaceBot.runtimeconfig.json
+/Users/shukran/HuggingFaceBot/out/HuggingFaceBot.pdb
