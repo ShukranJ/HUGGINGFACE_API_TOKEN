@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "9WRc4yG4e1AAeU4p31g2MGmblREI+jyzpCKdSe+rYhI=",
+  "Source": "HuggingFaceBot",
+  "BasePath": "_content/HuggingFaceBot",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
